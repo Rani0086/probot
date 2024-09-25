@@ -22,25 +22,25 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/Raiden_Support"),
+        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/Crunchyrol_Anime_In_Hindi_India"),
         InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/hasnainkk-07/Edit-Guardian"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/hasnainkk"),
+        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Queen143np"),
     ],
     
 ]
 
 IMG = [
-"https://telegra.ph/file/73c9aa7b5e1a2e053d915.jpg",
-"https://telegra.ph/file/6cf4d7a5d07cdbc5c4c4f.jpg",
-"https://telegra.ph/file/3938993e7f83b9201d961.jpg",
+"https://files.catbox.moe/cj51hz.jpg",
+"https://files.catbox.moe/24of8x.jpg",
+"https://files.catbox.moe/24of8x.jpg",
 "https://telegra.ph/file/867bd553810ac3a4cf09f.jpg",
 "https://telegra.ph/file/d102719ef028b224e0842.jpg",
 "https://telegra.ph/file/63dbc9108dca4a91121af.jpg",
 "https://telegra.ph/file/5225ee47a9cbb9a0e85b1.jpg",
 "https://telegra.ph/file/ee9751a286fd983f08086.jpg",
 "https://telegra.ph/file/fbfa4262e467652e75d83.jpg",
-"https://telegra.ph/file/865ce3676d535ec83dce9.jpg",
+"https://files.catbox.moe/0hp0vs.jpg",
 ]
-PM_START_IMG = "https://te.legra.ph/file/821cfbf567b7227b26fab.jpg"
+PM_START_IMG = "https://files.catbox.moe/0hp0vs.jpg"
