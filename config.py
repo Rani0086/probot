@@ -4,24 +4,24 @@
 
 
 # Telegram bot token
-TELEGRAM_TOKEN = "7243757952:AAGKEAzpkAZb_QH1GuoBvM_Gwymmftyv0y0"
+TELEGRAM_TOKEN = "7942473848:AAG60u5qIud7CrJtwdEd4k2UtJfMwzlw6ME"
 
 # Your telegram user ID (owner)
-OWNER_ID = 6346273488
+OWNER_ID = 7526369190
 
-SUDO_ID = [5907205317, 1805959544, 1284920298, 5881613383, 6864672519, 5458968679]
+SUDO_ID = [7078181502, 6961287189, 5884969921, 7378877654]
 
 MONGO_URI = "mongodb+srv://herobh123456:hasnainkk07@hasnainkk07.uqjekii.mongodb.net/?retryWrites=true&w=majority"
 
-DB_NAME = "Toji_Fushiguro"
+DB_NAME = "Queen143np"
 
 DB_URI = "postgres://jrjcokem:VlG00PuZj0IgXZfc5dKrP2njj1DIHIWM@isabelle.db.elephantsql.com/jrjcokem"
 
 LOGGER = True
 
-BOT_NAME = "Edit Guardian"
+BOT_NAME = "niyto Edit Guardian"
 
-SUPPORT_ID = (-1002105665930)
+SUPPORT_ID = (-1002009280180)
 
 API_ID = 24683098
 
