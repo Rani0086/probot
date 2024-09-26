@@ -7,11 +7,10 @@
 TELEGRAM_TOKEN = "7942473848:AAG60u5qIud7CrJtwdEd4k2UtJfMwzlw6ME"
 
 # Your telegram user ID (owner)
-OWNER_ID = 7526369190
-
+OWNER_ID = 752636919
 SUDO_ID = [7078181502, 6961287189, 5884969921, 7378877654]
 
-MONGO_URI = "mongodb+srv://herobh123456:hasnainkk07@hasnainkk07.uqjekii.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://Alisha:Alisha123@cluster0.yqcpftw.mongodb.net/?retryWrites=true&w=majority"
 
 DB_NAME = "Queen143np"
 
@@ -23,6 +22,6 @@ BOT_NAME = "niyto Edit Guardian"
 
 SUPPORT_ID = (-1002009280180)
 
-API_ID = 24683098
+API_ID = 23255238
 
-API_HASH = "e4055cd239464e50e69bd73057c05dd3"
+API_HASH = "009e3d8c1bdc89d5387cdd8fd182ec15"
